@@ -5,3 +5,4 @@ public class Hello {
         calculate.receipt();
     }
 }
+
